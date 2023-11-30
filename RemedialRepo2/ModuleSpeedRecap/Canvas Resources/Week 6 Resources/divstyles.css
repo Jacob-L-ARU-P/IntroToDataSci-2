@@ -1,0 +1,48 @@
+#container
+{
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+	background:#99c;
+}
+
+#header
+{
+	background:#ddd;
+	/*height:200px;*/
+}
+
+#leftpane
+{
+	background:#c99;
+	float:left;
+	width:200px;
+}
+
+#content
+{
+	background:#9c9;
+	float:left;
+	width:500px;
+}
+
+#rightpane
+{
+	background:#c9c;
+	float:right;
+	width:200px;
+	
+}
+
+#footer
+{
+	background:#cc9;
+	clear:both;
+	
+}
+
+
+
+
+
+
